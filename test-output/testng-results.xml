@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="60244" started-at="2021-01-27T12:28:35 PST" finished-at="2021-01-27T12:29:35 PST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="60244" started-at="2021-01-27T12:28:35 PST" finished-at="2021-01-27T12:29:35 PST">
+      <class name="GeneralStoreApp.Ecommerce_tc_4">
+        <test-method status="PASS" signature="killAllNodes()[pri:0, instance:GeneralStoreApp.Ecommerce_tc_4@66d1af89]" name="killAllNodes" is-config="true" duration-ms="3031" started-at="2021-01-27T12:28:35 PST" finished-at="2021-01-27T12:28:38 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method status="PASS" signature="totalValidation()[pri:0, instance:GeneralStoreApp.Ecommerce_tc_4@66d1af89]" name="totalValidation" duration-ms="57178" started-at="2021-01-27T12:28:38 PST" finished-at="2021-01-27T12:29:35 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalValidation -->
+      </class> <!-- GeneralStoreApp.Ecommerce_tc_4 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
